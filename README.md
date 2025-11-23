@@ -4,7 +4,8 @@
 
 ## Beginner
 *   🌍  I'm based in India
-*   🧠  I'm learning web deve.
+*   🧠  I'm learning cyber security.
+*   🎮  I'm currently building an indie-game.
 *   🤝  I'm open to collaborating on Python, java and linux
 *   📩 Contact me : [Telegram]
 
